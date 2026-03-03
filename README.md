@@ -2,7 +2,11 @@
 
 A single-page interactive web tool designed for students on a computing course to self-assess whether their GitHub profile meets professional standards. Built with plain HTML, CSS, and JavaScript — no frameworks, no dependencies, no installation required.
 
-Use this in conjinction with [Creating a professional GitHub profile](https://martinsolent.github.io/github_profile_walk-thru/)
+Use this in conjinction with:
+[Creating a professional GitHub profile](https://martinsolent.github.io/github_profile_walk-thru/)
+[Optimising Your GitHub Profile](https://martinsolent.github.io/github_profile_walk-thru/)
+[GitHub Pages for hosting web content](https://github.com/martinsolent/GitHub_Pages_2023)
+[Markdown Course](https://martinsolent.github.io/markdown_course/)
 
 ---
 
