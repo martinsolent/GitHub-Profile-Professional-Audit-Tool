@@ -4,8 +4,11 @@ A single-page interactive web tool designed for students on a computing course t
 
 Use this in conjinction with:
 [Creating a professional GitHub profile](https://martinsolent.github.io/github_profile_walk-thru/)
+
 [Optimising Your GitHub Profile](https://martinsolent.github.io/github_profile_walk-thru/)
+
 [GitHub Pages for hosting web content](https://github.com/martinsolent/GitHub_Pages_2023)
+
 [Markdown Course](https://martinsolent.github.io/markdown_course/)
 
 ---
