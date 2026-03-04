@@ -117,7 +117,7 @@ This tool works well as a short, low-stakes activity at the start of a session o
 1. Ask students to open their GitHub profile in one tab and this tool in another
 2. Give them 10–15 minutes to work through each criterion honestly
 3. Invite students who received the "Prankster" result to share one thing they will improve before the next session
-4. Follow up in a later session to see who has made changes — consider making it a friendly class challenge
+4. Follow up in a later session to see who has made changes, consider making it a friendly class challenge
 
 **Extension task:** Ask students to peer-review a classmate's profile using the same checklist and provide written feedback on each criterion.
 
